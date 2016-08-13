@@ -1,0 +1,18 @@
+h1 {font-size: 50px;
+	font-weight:bolder;
+	text-align:center;
+	text-decoration: underline;
+	color:#A60E19;}
+
+body {font-family:Helvetica, sans-serif;
+		background-color: #E8E7A8}
+
+#slogan {text-align:center;
+		font-style: italic;}
+
+#information {text-align:center}
+
+.center {text-align:center;}
+
+#contact {font-size: 10px;
+			font-family:;}
