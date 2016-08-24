@@ -1,18 +1,29 @@
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower|Jaldi|Josefin+Sans';
+
 h1 {font-size: 50px;
 	font-weight:bolder;
 	text-align:center;
 	text-decoration: underline;
-	color:#A60E19;}
+	color: black;
+font-family: 'Josefin Sans', sans-serif;}
 
-body {font-family:Helvetica, sans-serif;
-		background-color: #E8E7A8}
+body {font-family: Helvetica, sans-serif;
+		background-color: white}
 
-#slogan {text-align:center;
-		font-style: italic;}
+p {font-family: 'Jaldi', helvetica, sans-serif}
+
+li{font-family: 'Indie Flower', cursive;}
+
+#tools {text-align:center;
+		font-style: bold;}
 
 #information {text-align:center}
 
-.center {text-align:center;}
+.images {text-align:center;
+		display: inline;
+         padding: 15px;
+     }
 
-#contact {font-size: 10px;
-			font-family:;}
+#contact {font-size: 13px;
+			font-family:;
+			text-align:center;}
