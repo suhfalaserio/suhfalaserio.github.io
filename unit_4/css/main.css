@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Indie+Flower|Jaldi|Josefin+Sans';
+@import 'https://fonts.googleapis.com/css?family=Baloo+Bhaina|Indie+Flower|Jaldi|Josefin+Sans';
 
 h1 {font-size: 75px;
 	font-weight:bolder;
@@ -12,12 +12,21 @@ body {font-family: Helvetica, sans-serif;
 
 p {font-family: 'Jaldi', helvetica, sans-serif}
 
-li{font-family: 'Indie Flower', cursive;}
+li{font-family: 'Jaldi', cursive;}
 
 #tools {text-align:center;
-		font-style: bold;}
+	font-family: 'Jaldi';
+		font-style: bold;
+		font-style: italic;}
 
 #information {text-align:center}
+
+.menu {text-align:center;
+		font-size: 50px;
+		font-family: 'Baloo Bhaina', cursive;;
+		font-weight:bolder
+		}
+
 
 .images {text-align:center;
 		display: inline;
