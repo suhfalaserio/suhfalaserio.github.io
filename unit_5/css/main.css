@@ -1,0 +1,55 @@
+.wrapper {}
+
+.logo {
+	background-color: #FFED74;
+	font-size: 3em;
+	font-weight:bolder;
+	text-align:center;
+	text-decoration: underline;
+	color: black;
+	margin: 0 5em;
+}
+
+.navigation {
+	background-color:#E8C66A;
+	margin: 1em 7em;
+	display:block;
+	text-align:center;
+	align:center;
+	padding: 1em 4em;
+	border: 3px solid black;
+}
+
+.homemain {
+	background-color: #FFE2B8;
+	margin:auto;
+	align:center;
+	padding: 1em;
+	border: 3px solid black;
+	display:block;
+}
+
+.description {
+	background-color: #FFC675;
+	float:left;
+	height:250px;
+	width: 50%;
+	margin: auto;
+	padding: 2em;
+	border: 3px dashed black;
+}
+
+.services {
+	background-color:#E89C6C;
+	height: 250px;
+	padding: 2em;
+	margin: auto;
+	border: 3px dashed black;
+}
+
+.contact{
+	background-color:#FF957E;
+	font-size: 13px;
+	margin: 1em 0;
+	text-align:center;
+	border:3px solid black;}
